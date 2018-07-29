@@ -1,4 +1,4 @@
-# Piano Keyboard ([Live Demo](https://sanxofon.github.io/Cross-Browser-JS-CSS-MP3-Piano/))
+# Cross-Browser JS-CSS-MP3 Piano Keyboard ([Live Demo](https://sanxofon.github.io/Cross-Browser-JS-CSS-MP3-Piano/))
 
 ![Piano Keyboard](https://preview.ibb.co/nhMiOo/screenshot.jpg "Piano Screenshot")
 
