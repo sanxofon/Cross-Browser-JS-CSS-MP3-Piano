@@ -9,9 +9,7 @@ This example displays how to construct a basic Piano Keyboard using howler.js as
 * Computer keyboard input: 'q', '2', 'w', '3', 'e', 'r', '5', 't', '6', 'y', '7', 'u', 'i',...
 
 ## How-To
-1. Clone the git repo or download the source:
-    * **Clone:** `git clone https://github.com/goldfire/howler.js.git`
-    * **Download:** [https://github.com/goldfire/howler.js/archive/master.zip](https://github.com/goldfire/howler.js/archive/master.zip)
+1. Clone the git repo or download the source.
 2. Open `index.html` in your favorite browser.
 
 ## Credits
