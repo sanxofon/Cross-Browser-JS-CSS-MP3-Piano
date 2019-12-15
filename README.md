@@ -1,5 +1,9 @@
 # Cross-Browser JS-CSS-MP3 Piano Keyboard ([Live Demo](https://sanxofon.github.io/Cross-Browser-JS-CSS-MP3-Piano-Keyboard/))
 
+[![Twitter: @sanxofon](https://img.shields.io/badge/contact-@sanxofon-blue.svg?style=flat)](https://twitter.com/sanxofon)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/sanxofon/Cross-Browser-JS-CSS-MP3-Piano-Keyboard/blob/master/LICENSE)
+[![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sanxofon/Cross-Browser-JS-CSS-MP3-Piano-Keyboard/blob/master/CONTRIBUTING.md)
+
 ![Piano Keyboard](https://preview.ibb.co/nhMiOo/screenshot.jpg "Piano Screenshot")
 
 ## Description
